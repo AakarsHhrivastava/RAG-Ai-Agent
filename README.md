@@ -15,7 +15,7 @@ This agent uses Retrieval-Augmented Generation to provide accurate, real-time an
 - Google Drive (Document input)
 
 ## ⚙️ How To Run
-1. Import `` into your n8n instance.
+1. Import `FInal_Rag_Agent.json`,'' into your n8n instance.
 2. Replace credentials (OpenAI, Pinecone, Google Drive).
 3. Trigger the chat input node and test it!
 
