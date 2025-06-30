@@ -1,4 +1,4 @@
-# 📚 RAG-Based Knowledge Agent (n8n + OpenAI + Pinecone)
+# 📚 RAG AI Agent (n8n + OpenAI + Pinecone)
 
 This agent uses Retrieval-Augmented Generation to provide accurate, real-time answers from uploaded documents.
 
